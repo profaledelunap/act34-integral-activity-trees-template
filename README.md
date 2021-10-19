@@ -37,7 +37,7 @@ Donde:
 En equipo, deberán hacer una aplicación que:
 
 - Lea un archivo de entrada (ej. canal.txt), en el cual el primer renglon consiste del numero de registros a leer. Después, se leen y contabilizan el número de incidencias de cada una de las series (los primeros tres caracteres del UBI). Las series y el número de incidencias se deberan guardar en dos árboles binarios de búsqueda, uno para las series de buques que entraron por el mar Mediterráneo y otro para las series que entraron por el mar Rojo.
-- Despliegue los datos almacenados en cada uno de los árboles en forma descendente, donde la prioridad esta dada por el número de incidencias de cada prefix (a mayor incidencias mayor proridad). El resultado se deberá de desplegar en el siguiente formato:
+- Despliegue los prefix que tienen un mínimo de 10 incidencias en forma descendiente, donde la prioridad esta dada por el número de incidencias de cada prefix (a mayor incidencias mayor proridad). El resultado se deberá de desplegar en el siguiente formato:
 
 ```
 Mar Rojo
@@ -78,10 +78,3 @@ Por último, realiza una investigación y reflexión de la importancia y eficien
 
 - **10%** - El código deberá seguir los lineamientos estipulados en el estándar de codificación: <span class="instructure_file_holder link_holder">[liga_estándar_codificación](estandar.pdf)</span>
 - **10%** - Se respetenan los nombres de las funciones en la aplicación.
-
-## <span style="color: rgb(26, 99, 169);">**¿Dónde la entrego?**</span>
-
-Esta actividad forma parte tanto de tu calificación final del curso, así como del portafolio de evidencias de las competencias a desarrollar del curso, por lo que se te pide que en forma individual:
-
-- Realices una entrega del código fuente de la solución del problema, en la sección correspondiente dentro de esta plataforma, así como el documento de reflexión individual (**ReflexAct3.4.pdf**).
-  En la carpeta personal llamada **TC1031(Portafolio_Final)** que generaste desde la entrega de la actividad 1.3 y que te servirá como preparación para la entrega del portafolio de competencias que se realizará al final del curso, coloca en la subcarpeta **Act3.4** tus archivos que solucionaron la <span style="text-decoration: underline;">actividad 3.4</span> así como el documento de reflexión individual (**ReflexAct3.4.pdf**) .

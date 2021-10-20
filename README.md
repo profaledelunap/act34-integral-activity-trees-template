@@ -69,12 +69,12 @@ Por último, realiza una investigación y reflexión de la importancia y eficien
 
 ## <span style="color: rgb(26, 99, 169);">**¿Bajo qué criterios se evalúa mi evidencia?**</span>
 
-- **80%** - Para cada una de las funcionalidades se evaluará:
+- **70%** - Para cada una de las funcionalidades se evaluará:
 
-  - **Excelente (80%)** - pasa correctamente todos los casos de prueba.
-  - **Muy Bien (60%)** - pasa correctamente el 75% de los casos de prueba.
-  - **Bien (40%)** - pasa correctamente el 50% de los casos de prueba.
-  - **Insuficiente (20%)** - pasa correctamente menos del 50% de los casos de prueba.
+  - **Excelente (70%)** - pasa correctamente todos los casos de prueba.
+  - **Muy Bien (52%)** - pasa correctamente el 75% de los casos de prueba.
+  - **Bien (35%)** - pasa correctamente el 50% de los casos de prueba.
+  - **Insuficiente (17%)** - pasa correctamente menos del 50% de los casos de prueba.
 
+- **20%** - El documento de reflexión de la importancia y eficiencia del uso de BST en una situación problema de esta naturaleza.
 - **10%** - El código deberá seguir los lineamientos estipulados en el estándar de codificación: <span class="instructure_file_holder link_holder">[liga_estándar_codificación](estandar.pdf)</span>
-- **10%** - Se respetenan los nombres de las funciones en la aplicación.
